@@ -5,6 +5,7 @@
 - [72ea4a00-4d76-48cf-88e0-9d29c1987762](./72ea4a00-4d76-48cf-88e0-9d29c1987762)
 - [8a05357b-f7a0-46c3-9f96-d6023f544ba5](./8a05357b-f7a0-46c3-9f96-d6023f544ba5)
 - [argument-comment-lint-x86_64-pc-windows-msvc](./argument-comment-lint-x86_64-pc-windows-msvc)
+- [codex-x86_64-pc-windows-msvc](./codex-x86_64-pc-windows-msvc)
 - [d9ea04ea-05f4-46de-b334-3731b125ab3f](./d9ea04ea-05f4-46de-b334-3731b125ab3f)
 - [individual-family-2026-medical-decision-guide-m04711r06](./individual-family-2026-medical-decision-guide-m04711r06)
 - [tsetup-x64.6.8.1](./tsetup-x64.6.8.1)
